@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Outer circular background -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M60,60m-58,0a58,58 0,1 1,116 0a58,58 0,1 1,-116 0" />
+
+    <!-- Subtle inner circle / gradient accent -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M60,60m-52,0a52,52 0,1 1,104 0a52,52 0,1 1,-104 0" />
+
+    <!-- Head / Face Silhouette -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M60,32m-18,0a18,18 0,1 1,36 0a18,18 0,1 1,-36 0" />
+
+    <!-- Shoulders / Torso Silhouette -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M60,72 C41,72 26,86 24,103 C28.5,108 34,111 60,111 C86,111 91.5,108 96,103 C94,86 79,72 60,72 Z" />
+
+    <!-- Collar / Tie / Accent detail -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M54,72 L60,82 L66,72 Z" />
+</vector>

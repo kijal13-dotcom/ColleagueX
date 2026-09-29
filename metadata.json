@@ -1,0 +1,6 @@
+{
+  "name": "ColleagueX",
+  "description": "The professional employee community platform for local city circles, nationwide India network, global connections, groups, jobs, mentoring, and events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

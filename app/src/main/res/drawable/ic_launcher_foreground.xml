@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle backdrop rounded shield -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:pathData="M32,26 H76 A14,14 0 0 1 90,40 V68 A14,14 0 0 1 76,82 H32 A14,14 0 0 1 18,68 V40 A14,14 0 0 1 32,26 Z" />
+
+    <!-- Colleague Node Connection Links -->
+    <path
+        android:strokeColor="#5038BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M33,39 L54,54 M33,69 L54,54 M75,39 L54,54 M75,69 L54,54" />
+
+    <!-- Letter "C" (Colleague) - Crisp White Stroke -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 47,39 C 36,39 29,46 29,54 C 29,62 36,69 47,69" />
+
+    <!-- Letter "X" - Forward Slash in Pure White -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M 53,39 L 75,69" />
+
+    <!-- Letter "X" - Back Slash in Electric Cyan -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M 75,39 L 53,69" />
+
+    <!-- Central Collaboration Hub Node -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0" />
+    <path
+        android:fillColor="#0B5FFF"
+        android:pathData="M54,54 m-2.2,0 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0" />
+
+    <!-- Outer Colleague Network Dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,39 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,69 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M75,39 m-3.2,0 a3.2,3.2 0 1,0 6.4,0 a3.2,3.2 0 1,0 -6.4,0" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M75,69 m-3.2,0 a3.2,3.2 0 1,0 6.4,0 a3.2,3.2 0 1,0 -6.4,0" />
+</vector>
